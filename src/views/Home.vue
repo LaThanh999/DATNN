@@ -9,7 +9,7 @@
           <v-img
             class="white--text align-end"
             height="150px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614"
           >
             <v-card-title>Căn hộ cao cấp 1</v-card-title>
           </v-img>
@@ -37,7 +37,7 @@
           <v-img
             class="white--text align-end"
             height="150px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614"
           >
             <v-card-title>Căn hộ cao cấp 1</v-card-title>
           </v-img>
@@ -65,7 +65,7 @@
           <v-img
             class="white--text align-end"
             height="150px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614"
           >
             <v-card-title>Căn hộ cao cấp 1</v-card-title>
           </v-img>
@@ -93,7 +93,7 @@
           <v-img
             class="white--text align-end"
             height="150px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614"
           >
             <v-card-title>Căn hộ cao cấp 1</v-card-title>
           </v-img>
@@ -121,7 +121,7 @@
           <v-img
             class="white--text align-end"
             height="150px"
-            src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+            src="https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614"
           >
             <v-card-title>Căn hộ cao cấp 1</v-card-title>
           </v-img>

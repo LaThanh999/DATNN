@@ -87,16 +87,13 @@ export default {
   data: () => ({
     items: [
       {
-        src: "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg",
+        src: "https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614",
       },
       {
-        src: "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+        src: "https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614",
       },
       {
-        src: "https://cdn.vuetifyjs.com/images/carousel/bird.jpg",
-      },
-      {
-        src: "https://cdn.vuetifyjs.com/images/carousel/planet.jpg",
+        src: "https://waterinasuites.vn/wp-content/uploads/2016/10/wate-1288x724.jpg?x34614",
       },
     ],
   }),
